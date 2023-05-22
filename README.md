@@ -1,0 +1,2 @@
+# GecmeNotuHesaplama
+GecmeNotuHesaplama
